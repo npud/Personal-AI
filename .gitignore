@@ -4,3 +4,8 @@ __pycache__/
 .env
 data/raw/
 data/chroma/
+.DS_Store
+
+# Local-only planning docs (see README → Docs)
+PROJECT_PLAN.md
+PHASE_0_1_GUIDE.md
